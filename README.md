@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student  
-- 💻 Know **C,C++, Python (Matplotlib)**  
+- 💻 Know **C, C++, Python (Matplotlib)**  
 - 📚 Currently learning **Java + DSA**  
 - 🔥 Interested in **AI, Software Development & Problem Solving**  
 - 🎯 Goal: Become a strong **developer**
@@ -33,7 +33,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,c++,python,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
 ### ⚙️ Tools
@@ -58,58 +58,11 @@
 
 ## 🔥 Projects
 
-- 📊 Python Visualization Projects  
-- 💻 DSA Practice Codes  
-- 🤖 Automation Scripts  
-- 📚 Library Management System (Java)
+- 📚 **Library Management System (Java, OOP)**  
+- 💻 **DSA Practice in C/C++**  
+- 📊 **Python Data Visualization (Matplotlib)**  
+- 🤖 **Automation Scripts**
 
-A console-based Library Management System built using Java.  
-This project demonstrates core Object-Oriented Programming concepts and basic system design.
-
----
-
-## 🚀 Features
-
-- Add new books 📖
-- Issue books to users 👤
-- Return books 🔄
-- Display available books 📋
-- Search books 🔍
-
----
-
-## 🛠️ Tech Used
-
-- Java (Core Java)
-- OOP Concepts (Classes, Objects, Encapsulation)
-
----
-
-## 🧠 Concepts Covered
-
-- Classes & Objects
-- Arrays / ArrayList
-- Conditional Statements
-- Loops
-- Basic Data Handling
-
----
-
-## 💡 Future Improvements
-
-- Add GUI (Java Swing / JavaFX)
-- Connect with Database (MySQL)
-- User Authentication System
-
----
-
-## ▶️ How to Run
-
-1. Compile:
-   javac Main.java
-
-2. Run:
-   java Main
 ---
 
 ## ⚡ Interests
