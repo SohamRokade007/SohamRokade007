@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Soham%20Rokade&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20|%20Tech%20Enthusiast%20|%20Anime%20Lover&descAlignY=55&descAlign=60&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Soham%20Rokade&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20|%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=60&fontColor=ffffff" width="100%" />
 </div>
 
 <h1 align="center">Hey 👋 I'm Soham Rokade</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sohamrokade1239@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/SohamRokade007">
@@ -22,10 +22,10 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student  
-- 💻 Know **C, Python (Matplotlib), learning Java deeply**  
-- 🔥 Interested in **AI, Tech, Automation, and Projects**  
-- 🎮 Love **Gaming + Anime (One Piece 🔥)**  
-- 🎯 Goal: Become a strong **developer + problem solver**
+- 💻 Know **C,C++, Python (Matplotlib)**  
+- 📚 Currently learning **Java + DSA**  
+- 🔥 Interested in **AI, Software Development & Problem Solving**  
+- 🎯 Goal: Become a strong **developer**
 
 ---
 
@@ -33,10 +33,10 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,java" />
+  <img src="https://skillicons.dev/icons?i=c,c++,python,java" />
 </p>
 
-### ⚙️ Tools & Tech
+### ⚙️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -56,27 +56,74 @@
 
 ---
 
-## 🔥 Projects (Add Yours Here)
+## 🔥 Projects
 
-- 🚀 Drone / Robotics Mini Projects  
 - 📊 Python Visualization Projects  
 - 💻 DSA Practice Codes  
 - 🤖 Automation Scripts  
+- 📚 Library Management System (Java)
+
+A console-based Library Management System built using Java.  
+This project demonstrates core Object-Oriented Programming concepts and basic system design.
 
 ---
 
-## ⚡ Fun Side
+## 🚀 Features
+
+- Add new books 📖
+- Issue books to users 👤
+- Return books 🔄
+- Display available books 📋
+- Search books 🔍
+
+---
+
+## 🛠️ Tech Used
+
+- Java (Core Java)
+- OOP Concepts (Classes, Objects, Encapsulation)
+
+---
+
+## 🧠 Concepts Covered
+
+- Classes & Objects
+- Arrays / ArrayList
+- Conditional Statements
+- Loops
+- Basic Data Handling
+
+---
+
+## 💡 Future Improvements
+
+- Add GUI (Java Swing / JavaFX)
+- Connect with Database (MySQL)
+- User Authentication System
+
+---
+
+## ▶️ How to Run
+
+1. Compile:
+   javac Main.java
+
+2. Run:
+   java Main
+---
+
+## ⚡ Interests
 
 - 🏏 Cricket (MS Dhoni fan 🐐)  
-- ✈️ Aviation + Fighter Jets  
-- 🌌 Tech + AI  
-- 🎬 Anime (One Piece, Death Note, DBZ)
+- 🌌 AI & Technology  
+- 🎬 Anime (One Piece, Death Note, DBZ)  
+- 🎮 Gaming  
 
 ---
 
 ## 💡 Quote
 
-> "Keep building. Keep learning. Stay ahead."
+> "Consistency beats talent."
 
 ---
 
