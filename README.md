@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋 I'm Soham Rokade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Learning+Java+%26+DSA;Python+%7C+C+Programmer;Tech+%2B+Anime+%2B+Gaming+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Learning+Java+%26+DSA;Python+%7C+C+Programmer;Automation+%26+Problem+Solving;Tech+%2B+Anime+%2B+Gaming+Enthusiast" />
 </p>
 
 <p align="center">
@@ -22,10 +22,10 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student  
-- 💻 Know **C, C++, Python (Matplotlib)**  
-- 📚 Currently learning **Java + DSA**  
-- 🔥 Interested in **AI, Software Development & Problem Solving**  
-- 🎯 Goal: Become a strong **developer**
+- 💻 Skilled in **C, C++, Python (Matplotlib basics)**  
+- 📚 Currently learning **Java + Data Structures & Algorithms**  
+- ⚡ Built automation tools and system-based projects  
+- 🎯 Goal: Become a strong **Software Developer**
 
 ---
 
@@ -58,23 +58,20 @@
 
 ## 🔥 Projects
 
-- 📚 **Library Management System (Java, OOP)**  
-  → Console-based system to manage books, issue/return, and search functionality  
+- 📁 **File Organizer (Python Automation)**  
+  → Automatically organizes files into categories (Images, Videos, Docs, Code, etc.) with smart skipping of system files  
 
-- 🖼️ **Random Wallpaper Generator (Python Automation)**  
-  → Automatically downloads and sets wallpapers based on categories like anime, cars, nature  
+- 📚 **Library Management System (Java, OOP)**  
+  → Console-based system to manage books, issue/return operations using OOP concepts  
+
+- 🖼️ **Random Wallpaper Generator (Python)**  
+  → Fetches and sets wallpapers dynamically based on categories like anime, cars, nature  
 
 - 🌐 **Civic Connect (Concept Project)**  
-  → A platform idea to connect citizens with local civic issues and reporting system  
+  → Platform idea to connect citizens with local civic issues and reporting  
 
-- 💻 **DSA Practice in C/C++**  
+- 💻 **DSA Practice (C/C++)**  
   → Implementation of sorting, searching, and data structures  
-
-- 📊 **Python Data Visualization (Matplotlib)**  
-  → Graph-based data visualization (line, bar, pie charts)  
-
-- 🤖 **Automation Scripts**  
-  → Scripts like file organizer, downloader, and productivity tools  
 
 ---
 
@@ -82,6 +79,7 @@
 
 - 🏏 Cricket (MS Dhoni fan 🐐)  
 - 🌌 AI & Technology  
+- ✈️ Aviation & Fighter Jets  
 - 🎬 Anime (One Piece, Death Note, DBZ)  
 - 🎮 Gaming  
 
