@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋 I'm Soham Rokade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Learning+Java+%26+DSA;Python+%7C+C+Programmer;Automation+%26+Problem+Solving;Tech+%2B+Anime+%2B+Gaming+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Learning+Java+%26+DSA;Python+%7C+C+%7C+CPP+Programmer;Automation+%26+Problem+Solving;Tech+%2B+Anime+%2B+Gaming+Enthusiast" />
 </p>
 
 <p align="center">
