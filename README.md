@@ -99,7 +99,7 @@
 
 ## 💡 Quote
 
-> "Consistency beats talent."
+> "Still learning, still building."
 
 ---
 
