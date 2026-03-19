@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋 I'm Soham Rokade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Learning+Java+%26+DSA;Python+%7C+C+%7C+CPP+Programmer;Automation+%26+Problem+Solving;Tech+%2B+Anime+%2B+Gaming+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Full+Stack+Developer+in+Progress;Java+%7C+DSA+%7C+Python;Automation+%26+System+Builder;Tech+%2B+Anime+%2B+Gaming+Enthusiast" />
 </p>
 
 <p align="center">
@@ -22,10 +22,10 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student  
-- 💻 Skilled in **C, C++, Python (Matplotlib basics)**  
-- 📚 Currently learning **Java + Data Structures & Algorithms**  
-- ⚡ Built automation tools and system-based projects  
-- 🎯 Goal: Become a strong **Software Developer**
+- 💻 Skilled in **C, C++, Python**  
+- 📚 Learning **Java + DSA + Backend Development**  
+- ⚡ Building real-world systems & automation tools  
+- 🎯 Goal: Become a **Full Stack Software Engineer**
 
 ---
 
@@ -36,9 +36,9 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
-### ⚙️ Tools
+### ⚙️ Tools & Tech
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
 
 ---
@@ -58,21 +58,33 @@
 
 ## 🔥 Projects
 
+- 📍 **Device Tracker System (Android + FastAPI + Web Dashboard)**  
+  → Built a real-time tracking system where an Android app sends location in the background to a cloud backend (Render), and an admin dashboard displays all devices live on a map.  
+  → Implemented REST API, background services, and full-stack integration without using Firebase.  
+
+---
+
 - 📁 **File Organizer (Python Automation)**  
-  → Automatically organizes files into categories (Images, Videos, Docs, Code, etc.) with smart skipping of system files  
+  → Developed an automation script that organizes files into categories like Images, Videos, Documents, and Code.  
+  → Handles edge cases such as system files and duplicate names efficiently.  
 
-- 📚 **Library Management System (Java, OOP)**  
-  → Console-based system to manage books, issue/return operations using OOP concepts  
+---
 
-- 🖼️ **Random Wallpaper Generator (Python)**  
-  → Fetches and sets wallpapers dynamically based on categories like anime, cars, nature  
+- 📚 **Library Management System (Java OOP)**  
+  → Created a console-based system to manage books, issue/return operations, and user records using Object-Oriented Programming concepts.  
+  → Focused on class design, encapsulation, and modular structure.  
+
+---
+
+- 🖼️ **Wallpaper Generator (Python)**  
+  → Built a script that fetches wallpapers dynamically based on categories (anime, cars, nature, etc.) and sets them automatically.  
+  → Integrated APIs and basic image handling.  
+
+---
 
 - 🌐 **Civic Connect (Concept Project)**  
-  → Platform idea to connect citizens with local civic issues and reporting  
-
-- 💻 **DSA Practice (C/C++)**  
-  → Implementation of sorting, searching, and data structures  
-
+  → Designed a platform idea to allow citizens to report local civic issues and track resolutions.  
+  → Focused on problem-solving, system design, and real-world usability.  
 ---
 
 ## ⚡ Interests
