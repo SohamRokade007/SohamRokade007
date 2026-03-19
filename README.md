@@ -59,9 +59,22 @@
 ## 🔥 Projects
 
 - 📚 **Library Management System (Java, OOP)**  
+  → Console-based system to manage books, issue/return, and search functionality  
+
+- 🖼️ **Random Wallpaper Generator (Python Automation)**  
+  → Automatically downloads and sets wallpapers based on categories like anime, cars, nature  
+
+- 🌐 **Civic Connect (Concept Project)**  
+  → A platform idea to connect citizens with local civic issues and reporting system  
+
 - 💻 **DSA Practice in C/C++**  
+  → Implementation of sorting, searching, and data structures  
+
 - 📊 **Python Data Visualization (Matplotlib)**  
-- 🤖 **Automation Scripts**
+  → Graph-based data visualization (line, bar, pie charts)  
+
+- 🤖 **Automation Scripts**  
+  → Scripts like file organizer, downloader, and productivity tools  
 
 ---
 
