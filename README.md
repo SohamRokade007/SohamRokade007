@@ -22,8 +22,8 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student  
-- 💻 Skilled in **C, C++, Python**  
-- 📚 Learning **Java + DSA + Backend Development**  
+- 💻 Skilled in **C, C++, Python, Java, DSA, RDBMS, HTML**  
+- 📚 Learning ** Exploring Python libraries + Data mining & warehousing + Backend Development + Android apk development**  
 - ⚡ Building real-world systems & automation tools  
 - 🎯 Goal: Become a **Full Stack Software Engineer**
 
@@ -33,7 +33,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,HTML,MYSQL" />
 </p>
 
 ### ⚙️ Tools & Tech
