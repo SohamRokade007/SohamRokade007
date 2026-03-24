@@ -62,13 +62,6 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy-git-master-rzashakeri.vercel.app/?username=SohamRokade007&theme=radical&no-frame=true&row=2&column=3" />
-</p>
-
----
 
 # 🔥 Projects
 
